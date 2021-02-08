@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="body.png"  />
+    <ui name="GUI 1" />
+    <image name="hand.png"  />
+    <image name="head.png"  />
+    <image name="leg.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+</resource>
