@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Form2" cloudDestinationProperty="Form2" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="Label" name="nom" cloudDestinationProperty="nom" text="Nom :" >
+  </component>
+  <component type="Label" name="prenom" cloudDestinationProperty="prenom" text="Pr&#xe9;nom :" >
+  </component>
+  <component type="Label" name="password" cloudDestinationProperty="password" text="Mot de passe :" >
+  </component>
+  <component type="Label" name="genre" cloudDestinationProperty="genre" text="Genre :" >
+  </component>
+  <component type="Label" name="date" cloudDestinationProperty="date" text="Date de naissance :" >
+  </component>
+  <component type="Label" name="favs" cloudDestinationProperty="favs" text="Favs :" >
+  </component>
+</component>
