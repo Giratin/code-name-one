@@ -1,0 +1,7 @@
+*.jar
+*.properties
+test
+lib
+native
+override
+build

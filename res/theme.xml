@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="100.png"  />
+    <image name="breakingbad.jpg"  />
+    <image name="dark.jpg"  />
+    <image name="got.jpg"  />
+    <image name="lucifer.jpg"  />
+    <image name="mrrobot.jpg"  />
+    <image name="strangerthings.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+    <image name="Travelers.png"  />
+    <image name="walkingdead.png"  />
+    <image name="witcher.jpg"  />
+</resource>
