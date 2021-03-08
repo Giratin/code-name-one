@@ -1,0 +1,7 @@
+*.jar
+lib
+native
+test
+override nbproject
+build
+
